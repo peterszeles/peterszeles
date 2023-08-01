@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  ---
-## I'm a Husband, Father, Developer, Student, Musician, Amateur Astronomer and Astrophotographer and Teacher!!
+## I'm a Husband, Father, Developer, Student, Musician, Amateur Astronomer and Astrophotographer!!
 
 ---
 
